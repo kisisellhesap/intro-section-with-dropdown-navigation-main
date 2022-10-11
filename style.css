@@ -188,7 +188,7 @@ main {
 .learn-more:hover {
     background-color: var(--AlmostWhite);
     color: var(--AlmostBlack);
-    font-weight: 700;
+
 }
 
 .aside-img {
